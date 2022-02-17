@@ -1,0 +1,14 @@
+This program will allow the input of three numbers and sort them
+
+function setNumbers(input1, input2, input3){
+    Save inputs to array
+    Set an array to hold the sorted numbers
+    for (let i equal to 1, i less than array.length; add 1 to i till it is equal to array.length) {
+        if "i is greater than 1"
+            push i to array
+    }
+
+    return array
+}
+
+setNumbers(input1, input2, input3)
