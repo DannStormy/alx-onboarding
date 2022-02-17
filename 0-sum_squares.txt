@@ -1,0 +1,10 @@
+This program will allow the input of two numbers and calculate the sum of their squares
+
+function squareOfNumbers(input1, input2) {
+    Calculate square of input2 by multiplying it with itself and save to const square1
+    Calculate square of input2 by multiplying it with itself and save to square2
+    const sumOfSquares equal to square1 + square2
+    return sumOfSquares
+}
+
+print squareOfNumbers(input1, input2)
