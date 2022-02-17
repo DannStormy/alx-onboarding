@@ -1,0 +1,9 @@
+This program will allow the input of numbers from the users and add them to a sum until it hits a negative numbers
+
+function addNumbers(input1){
+    Create a variable that holds the number 0
+    Add each input from the user to the global variable
+    if input is less than 0
+        return variable
+}
+
